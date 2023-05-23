@@ -88,15 +88,15 @@ body{
 .apresentacao__links__link:hover{
     background-color: var(--cor-hover);
     }
-.rodape{
-    color: var(--cor-primaria);
-    background-color: var(--cor-terciaria);
-    padding: 12px;
-    text-align: center;
-    font-family: var(--fonte-secundaria);
-    font-size: 1.5rem;
-    font-weight: 400;
-    }
+.rodape {
+        color: var(--cor-primaria);
+        background-color: var(--cor-terciaria);
+        padding: 19px;
+        text-align: center;
+        font-family: var(--fonte-secundaria);
+        font-size: 1.5rem;
+        font-weight: 500;
+         }
 .mypicture {
     max-height: 500px;
     max-width: 500px;    
