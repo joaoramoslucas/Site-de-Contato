@@ -125,7 +125,6 @@ body{
 .foto__pc {
     width: 700px;
     height: 550px;
-    border: 2px #22D4FD solid;
     margin-left: 50px;
 }
 .apresentacao__conteudo__atualizacao{
@@ -134,7 +133,6 @@ body{
     gap: 40px;
 }
 .apresentacao__conteudo__dois {
-    border: 2px red solid;
     font-family: var(--fonte-secundaria);
     font-size: 1.5rem;
     padding: 40px;
