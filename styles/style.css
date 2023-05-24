@@ -113,4 +113,13 @@ body{
         width: auto ;
 
     }
+    .rodape{
+        color: var(--cor-primaria);
+        background-color: var(--cor-terciaria);
+        padding: 24px;
+        text-align: center;
+        font-family: var(--fonte-secundaria);
+        font-size: 1.5em;
+        font-weight: 400;
+    }
 }   
